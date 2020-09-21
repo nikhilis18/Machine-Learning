@@ -14,3 +14,5 @@ We have been provided with a dataset of 150 training examples (i.e 50 for each f
 
 We have to train our algorithm in such a way that it could classify any example into one of the 3 species. You can have a look at the dataset provided in the Iris_flower.txt file. 
 
+## OUTPUT
+![output_ss](https://user-images.githubusercontent.com/58869607/93821077-aead6e80-fc7b-11ea-9492-356667f66b1e.JPG)
